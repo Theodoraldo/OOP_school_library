@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -52,14 +45,11 @@ This application helps librarians to manage and keep track the inventory of book
 
 ### Key Features <a name="key-features"></a>
 
-> Coming Soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Coming soon](#)
+> Classes
+> Inheritance
+> Composition
+> Module
+> Method
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +116,10 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> To be added later
+> Run console application
+> Add persons to application
+> Add books
+> Update books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
