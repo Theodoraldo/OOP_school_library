@@ -46,9 +46,13 @@ This application helps librarians to manage and keep track the inventory of book
 ### Key Features <a name="key-features"></a>
 
 - Classes
+  
 - Inheritance
+  
 - Composition
+  
 - Module
+  
 - Method
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,8 +121,11 @@ To run tests, run the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Run console application
+  
 - Add persons to application
+  
 - Add books
+  
 - Update books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
