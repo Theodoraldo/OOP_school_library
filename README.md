@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+  <div align="center">
+  <img src="./mylogo.png" alt="logo" width="140"  height="auto" />
+  </div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -27,7 +31,7 @@
 
 # 📖 OOP-School-Library <a name="about-project"></a>
 
-**OOP School Library** 
+**OOP School Library**
 This application helps librarians to manage and keep track the inventory of books of an institution. The librarian update the records as when books are borrowed and returned.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -46,20 +50,22 @@ This application helps librarians to manage and keep track the inventory of book
 ### Key Features <a name="key-features"></a>
 
 - Classes
-  
 - Inheritance
-  
 - Composition
-  
 - Module
-  
 - Method
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+### 💻 Getting Started <a name="getting-started"></a>
 
 > To get a local copy up and running, follow these steps.
 
@@ -77,7 +83,6 @@ Clone this repository to your desired folder:
 - create a directory
 - `git clone https://github.com/Theodoraldo/OOP_school_library.git` if you're using HTTP or git
 - Navigate to the folder where the project was cloned.
-
 
 ### Install
 
@@ -99,9 +104,7 @@ To run tests, run the following command:
 - `npm run test`
 - This will run all tests on your local machine
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- AUTHORS -->
 
@@ -113,7 +116,6 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodoreasimeng/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -121,11 +123,8 @@ To run tests, run the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Run console application
-  
 - Add persons to application
-  
 - Add books
-  
 - Update books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -149,6 +148,7 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## 🙏 Acknowledgments & Attribution <a name="acknowledgements"></a>
 
 - I would like to thank Microverse.
@@ -162,4 +162,3 @@ Feel free to check the [issues page](../../issues/).
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
