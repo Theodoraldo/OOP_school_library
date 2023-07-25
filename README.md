@@ -1,11 +1,8 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
+  <div align="center">
+  <img src="./mylogo.png" alt="logo" width="140"  height="auto" />
+  </div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -15,14 +12,14 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo](#readme-top)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#readme-top)
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -34,7 +31,7 @@
 
 # 📖 OOP-School-Library <a name="about-project"></a>
 
-**OOP School Library** 
+**OOP School Library**
 This application helps librarians to manage and keep track the inventory of books of an institution. The librarian update the records as when books are borrowed and returned.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -52,20 +49,18 @@ This application helps librarians to manage and keep track the inventory of book
 
 ### Key Features <a name="key-features"></a>
 
-> Coming Soon
+- Classes
+- Inheritance
+- Composition
+- Module
+- Method
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Coming soon](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+### 💻 Getting Started <a name="getting-started"></a>
 
 > To get a local copy up and running, follow these steps.
 
@@ -83,7 +78,6 @@ Clone this repository to your desired folder:
 - create a directory
 - `git clone https://github.com/Theodoraldo/OOP_school_library.git` if you're using HTTP or git
 - Navigate to the folder where the project was cloned.
-
 
 ### Install
 
@@ -105,9 +99,7 @@ To run tests, run the following command:
 - `npm run test`
 - This will run all tests on your local machine
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- AUTHORS -->
 
@@ -119,14 +111,16 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodoreasimeng/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> To be added later
+- Run console application
+- Add persons to application
+- Add books
+- Update books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,6 +143,7 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## 🙏 Acknowledgments & Attribution <a name="acknowledgements"></a>
 
 - I would like to thank Microverse.
@@ -162,4 +157,3 @@ Feel free to check the [issues page](../../issues/).
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
