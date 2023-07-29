@@ -1,7 +1,7 @@
 require './rental'
 
 class Book
-   attr_accessor :rentals, :title, :author
+  attr_accessor :rentals, :title, :author
 
   def initialize(title, author)
     @title = title

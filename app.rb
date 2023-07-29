@@ -53,8 +53,8 @@ class App
   def create_student
     puts ' '
     print 'Name: '
-     student_name = gets.chomp
-     print 'Age: '
+    student_name = gets.chomp
+    print 'Age: '
     student_age = gets.chomp.to_i
     print 'Has parent permission? [Y/N]: '
     has_parent_permission = gets.chomp.upcase
@@ -106,7 +106,6 @@ class App
     end
 
     book_index = gets.chomp.to_i
-    puts ' '
     puts 'Select a person from the following list by number/index (not id)'
     puts ' '
     @display_pupil.each_with_index do |person, index|
@@ -117,13 +116,10 @@ class App
     print 'Date: '
     rental_date = gets.chomp
     if person_index >= 0 && person_index < @display_pupil.length &&
-      book_index >= 0 && book_index < @display_books.length
+       book_index >= 0 && book_index < @display_books.length
       Rental.new(rental_date, @display_pupil[person_index], @display_books[book_index])
-      puts ' '
       puts 'Rental created successfully'
-      puts ' '
     else
-      puts ' '
       puts 'Invalid person or book selected.'
     end
   end
