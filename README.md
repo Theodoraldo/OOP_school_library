@@ -12,14 +12,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#readme-top)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#readme-top)
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -32,7 +30,7 @@
 # 📖 OOP-School-Library <a name="about-project"></a>
 
 **OOP School Library**
-This application helps librarians to manage and keep track the inventory of books of an institution. The librarian update the records as when books are borrowed and returned.
+This application helps librarians to manage and keep track of the inventory of books in an institution. The librarian updates the records when books are borrowed and returned.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,11 +47,14 @@ This application helps librarians to manage and keep track the inventory of book
 
 ### Key Features <a name="key-features"></a>
 
+- Ruby Unit Testing
+- Console application
 - Classes
+- Methods
+- Unit test
 - Inheritance
 - Composition
 - Module
-- Method
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,8 +62,6 @@ This application helps librarians to manage and keep track the inventory of book
 <!-- GETTING STARTED -->
 
 ### 💻 Getting Started <a name="getting-started"></a>
-
-> To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -84,20 +83,21 @@ Clone this repository to your desired folder:
 Install this project with:
 
 - Run the command `bundle install` in the terminal
+- This will install all the dependencies to the project
 
 ### Usage
 
 To run the project, execute the following command:
 
-- `ruby -the name of the file-`
-- This will run the project in the terminal in the specified directory
+- `ruby main.rb`
+- This will run the console application of the project. 
 
 ### Run tests
 
 To run tests, run the following command:
 
-- `npm run test`
-- This will run all tests on your local machine
+- `rspec`
+- This will run all tests on the spec folder of the project directory
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,16 +111,19 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodoreasimeng/)
 
+👤 **Paul**
+
+- GitHub: [@paul-tes](https://github.com/Paul-tes)
+- LinkedIn: [paul](https://www.linkedin.com/in/paul-tesfaye)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Run console application
-- Add persons to application
-- Add books
 - Update books
+- Update library upon return of books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

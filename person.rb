@@ -5,7 +5,7 @@ require './timmer_decorator'
 class Person < Nameable
   attr_accessor :id, :name, :age, :rentals
 
-  def initialize(age, name = 'Unknown', parent_permission: true)
+  def initialize(age = nil, name = 'Unknown', parent_permission: true)
     super()
     @id = Time.now.strftime('%Y%d%m%H%M%S%Z').to_i
     @name = name
