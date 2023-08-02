@@ -51,6 +51,7 @@ This application helps librarians to manage and keep track of the inventory of b
 - Console application
 - Classes
 - Methods
+- Unit test
 - Inheritance
 - Composition
 - Module
