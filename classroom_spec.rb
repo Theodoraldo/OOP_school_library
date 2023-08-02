@@ -23,4 +23,23 @@ RSpec.describe Classroom do
       expect(student.classroom).to eq(classroom)
     end
   end
+
+  describe 'If class is added successfully' do
+    it 'Creates a classroom with a label' do
+      classroom = Classroom.new('Physics Class')
+      expect(classroom.label).to eq('Physics Class')
+    end
+
+    it 'Adds students to the classroom and sets their classroom' do
+      student1 = Student.new(17, 'Post Mathematics', 'Alice')
+      student2 = Student.new(18, 'Post Mathematics', 'Bob')
+
+      classroom.add_student(student1)
+      classroom.add_student(student2)
+
+      expect(classroom.students).to include(student1, student2)
+      expect(student1.classroom).to eq(classroom)
+      expect(student2.classroom).to eq(classroom)
+    end
+  end
 end
