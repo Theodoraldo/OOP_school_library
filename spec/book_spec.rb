@@ -1,5 +1,5 @@
 require_relative '../book'
-​
+
 RSpec.describe Book do
   it 'Propoerly constructed getters and setters' do
     book = Book.new('Titanic', 'James Cameron')
